@@ -1,0 +1,45 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+header{
+    width:100%;
+    background:rgb(5, 5, 5);
+    padding:25px 0px;
+}
+nav{
+    width:80%;
+    margin:0 auto;
+}
+
+.navLeft,.navRight{
+    display:inline-block;
+}
+.navLeft{
+   
+}
+.navRight{
+    margin-right:0px;
+    float:right;
+    margin:10px 0;
+
+}
+li{
+    display:inline-block;
+    font-size:18px;
+    margin:0 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+li a{
+    color:#878282;
+    text-decoration:none;
+}
+/* Navigation End**********************************************************************************************/
+
+/* banner START****************************************************************************************************/
+
+
+
+/*banner END***************************************************************************************************/
