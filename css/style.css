@@ -162,3 +162,34 @@ section {
     padding:80px;
     position: relative;
 }
+footer{
+    background-color:rgb(27, 27, 27);
+    color:rgb(180, 178, 178);
+    padding:5% 10%;
+    
+}
+.footer-left{
+    width:48%;
+    display: flex;
+    justify-content: space-around;
+}
+.footer-left p,.text-box p {
+    font-size:13px;
+}
+.footer-left h3,.text-box h3{
+    padding-bottom:20px;
+}
+.text-box{
+    width:48%;
+}
+.footer-left .fa{
+    font-size:20px;
+    margin:0 5px;
+}
+.copyright{
+    background:black;
+    color: gray;
+    text-align: center;
+    padding:5px 0px;
+    font-size:14px;
+}
